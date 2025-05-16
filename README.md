@@ -51,8 +51,3 @@ The project follows Clean Architecture, separating responsibilities into distinc
 
     🧪 Unit/UI Testing (test, androidTest directories)
 
-✅ Purpose:
-
-To deliver a clean, scalable meme viewer application with a reactive UI and solid architectural foundation using the latest Android development practices.
-
-Would you like a full README.md template for GitHub including installation instructions, usage, and badges?
